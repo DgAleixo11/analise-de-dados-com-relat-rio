@@ -44,7 +44,7 @@ mail.HTMLBody = f'''
 <p>Qualquer dúvida estou à disposição.</p>
 
 <p>Att.,</p>
-<p>Aleixo</p>
+<p>Aleixo, Diogo</p>
 '''
 
 mail.Send()
